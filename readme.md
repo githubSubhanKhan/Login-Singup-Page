@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d772de43-cf83-4524-b65f-e77588a32446/deploy-status)](https://app.netlify.com/sites/loginsignupphpproject/deploys)
